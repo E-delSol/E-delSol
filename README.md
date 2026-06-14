@@ -1,61 +1,67 @@
-# Enrique
+# 🧠 Enrique
 
-Backend Developer | Industrial Engineer | Systems Thinking
+> Backend Developer · Industrial Engineer · Java & Kotlin
 
-I build backend systems and explore how engineering principles translate into software design.
+Building reliable software systems through engineering principles, backend development, and continuous learning.
 
----
+🌐 [Cronos Digital Stack](https://e-delsol.github.io) •
+🔗 [LinkedIn](https://www.linkedin.com/in/enrique-d-9a626836/) •
+💻 [GitHub](https://github.com/e-delsol)
 
-## 🧠 About
+## ⚙️ Tech Stack
 
-I started in industrial engineering, working with real-world systems: production flows, process optimization, and system constraints.
+### Backend
 
-That background shaped how I approach software today.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge)
+![Ktor](https://img.shields.io/badge/Ktor-000000?style=for-the-badge)
 
-To me, backend development is not just about code — it’s about designing systems that transform inputs into reliable, scalable outputs.
+### Databases
 
-> Tools change. Systems principles remain.
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
----
+### Tools
 
-## ⚙️ What I focus on
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 
-- Backend systems and architecture
-- Java & Kotlin ecosystems
-- REST APIs and distributed systems basics
-- SQL and data modeling
-- System design fundamentals
-- Maintainable software over clever solutions
+## 🧩 How I Think
 
-I care more about **how systems behave under pressure** than which framework is trending.
-
----
-
-## 🧩 Current direction
-
-Right now I’m focused on:
-
-- Strengthening backend architecture skills
-- Deepening system design understanding
-- Building and documenting real projects
-- Connecting engineering thinking with software design
+```text
+Input → System Design → Implementation → Reliable Output
+        ↑                         ↓
+   Constraints ←── Feedback ──── Performance
+```
 
 ---
 
-## 🌐 Blog
+## 🚀 Current Focus
 
-I write about software, systems, and engineering thinking:
-
-👉 https://e-delsol.github.io
-
-Cronos Digital Stack is my personal space for exploring how systems work — from backend services to engineering fundamentals.
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://www.linkedin.com/in/enrique-d-9a626836/
+- Backend Architecture
+- System Design
+- Java & Kotlin Ecosystem
+- Cloud & Distributed Systems
+- Engineering Fundamentals
+- Technical Writing
 
 ---
 
-> “Good systems don’t happen by accident — they are designed.”
+## 📚 Latest Articles
+
+- 🏭 From Industrial Engineering to Backend Systems
+- 🧠 Why Fundamentals Matter More Than Technologies
+- 🚀 Starting This Blog
+
+👉 [Read more on Cronos Digital Stack](https://e-delsol.github.io)
+
+## 📫 Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/enrique-d-9a626836/)
+- 🌐 [Cronos Digital Stack](https://e-delsol.github.io)
+
+---
+
+> *Tools change. Systems principles remain.*
