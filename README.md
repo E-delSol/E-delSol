@@ -51,9 +51,9 @@ Input → System Design → Implementation → Reliable Output
 
 ## 📚 Latest Articles
 
-- 🏭 From Industrial Engineering to Backend Systems
-- 🧠 Why Fundamentals Matter More Than Technologies
-- 🚀 Starting This Blog
+<!-- BLOG-POST-LIST:START -->
+Loading latest articles...
+<!-- BLOG-POST-LIST:END -->
 
 👉 [Read more on Cronos Digital Stack](https://e-delsol.github.io)
 
